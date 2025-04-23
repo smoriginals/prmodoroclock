@@ -1,3 +1,6 @@
+*{
+    font-family:Verdana;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +38,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.form-control{
+    background-color:ghostwhite;
+    height:150px;
+    width:120px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    font-size:2.5rem;
+    border-radius:5px;
+    border:2px dashed black;
+    flex-basis:content;
+}
+.btn{
+    height:100px;
+    width:150px;
+    margin-top:150px;
 }
