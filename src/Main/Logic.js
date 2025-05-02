@@ -38,3 +38,5 @@ function DisplayEndTime(timeStamp) {
 }
 
 Timer(10);
+
+//old project use to handle and help the react project use the same logic to make the new project.
